@@ -8,7 +8,9 @@ Contents
 =============
 
 #### - Face tracking with pretrained MTCNN
-- Read images or video (continuous image sequence in time series)
+- Read images or video (image sequence in time series)
+- Detecting face in an image
+- Save as detected images (video), original images, coordinates of bounding box
 
 Datasets
 =============
