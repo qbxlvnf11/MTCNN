@@ -3,6 +3,8 @@ Description
 =============
 
 #### - FaceNet
+- Embedding face images to 127 dim vectors
+- Triplet loss
 
 Contents
 =============
@@ -25,6 +27,10 @@ References
 #### - FaceNet / MTCNN
 
 https://github.com/timesler/facenet-pytorch
+
+#### - Paper [ FaceNet: A Unified Embedding for Face Recognition and Clustering ]
+
+https://arxiv.org/pdf/1503.03832.pdf
 
 Author
 =============
