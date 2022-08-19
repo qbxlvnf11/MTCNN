@@ -2,11 +2,14 @@
 Description
 =============
 
+#### - FaceNet
+
 <img src="https://user-images.githubusercontent.com/52263269/185675313-24bb8b00-8b63-4dc6-bdbe-212c9cd935dd.png" width="40%"></img>
 
-#### - FaceNet
 - Embedding face images to 127 dim vectors
 - Triplet loss
+  - Algorithms where a reference input (called anchor) is compared to a matching input (called positive) and a non-matching input (called negative)
+  - The distance from the anchor to the positive is minimized, and the distance from the anchor to the negative input is maximized.
 
 Contents
 =============
@@ -29,6 +32,10 @@ References
 #### - FaceNet / MTCNN
 
 https://github.com/timesler/facenet-pytorch
+
+#### - Triplet loss
+
+https://en.wikipedia.org/wiki/Triplet_loss
 
 #### - Paper [ FaceNet: A Unified Embedding for Face Recognition and Clustering ]
 
