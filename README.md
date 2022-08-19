@@ -2,6 +2,8 @@
 Description
 =============
 
+<img src="https://user-images.githubusercontent.com/52263269/185675313-24bb8b00-8b63-4dc6-bdbe-212c9cd935dd.png" width="40%"></img>
+
 #### - FaceNet
 - Embedding face images to 127 dim vectors
 - Triplet loss
